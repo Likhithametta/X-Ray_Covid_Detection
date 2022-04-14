@@ -1,0 +1,35 @@
+body {
+  height: 400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-color: lightgrey;
+}
+.header {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.jumbotron {
+  background-color: rgb(201, 236, 233);
+  width: 40%;
+  margin: auto;
+  margin-top: 40px;
+  display: block;
+  justify-content: center;
+  border-radius: 30px;
+}
+
+#button {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+/* preview image */
+#output_image {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+}
